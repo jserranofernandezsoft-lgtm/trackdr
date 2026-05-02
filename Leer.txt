@@ -1,0 +1,8 @@
+ACCESO AL SISTEMA:
+ - Usuario Administrador: admin@empresa.com
+ - Contraseña Administrador: Admin2024!
+
+ACCESO DB MARIA DB:
+ - Usuario DB: root
+ - Contraseña DB: hola1234
+
